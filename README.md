@@ -12,3 +12,4 @@ pip install streamlit==1.41.1
 
 pip install openai
 
+streamlit run app.py
